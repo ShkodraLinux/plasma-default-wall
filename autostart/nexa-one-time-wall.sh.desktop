@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=~/.config/nexa-one-time-wall.sh
+Icon=application-x-shellscript
+Name=(one time only) Change to default Nexa Linux wallpaper
+Type=Application
+X-KDE-AutostartScript=true
